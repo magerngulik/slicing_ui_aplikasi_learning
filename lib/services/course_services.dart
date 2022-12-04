@@ -75,4 +75,17 @@ class CorserServices {
       "trainer": "Zulkarnaen"
     },
   ];
+
+  List age = [
+    {"title": "Beginner", "age": "10 - 16", "height": 289.0},
+    {"title": "Medium", "age": "16 - 24", "height": 336.0},
+    {"title": "Intermediate", "age": "24 - 36", "height": 388.0}
+  ];
+
+  List categoryCourse = [
+    "All Course",
+    "UI/UX design",
+    "Development",
+    "Basic Web",
+  ];
 }
